@@ -1,0 +1,44 @@
+.checkbox {
+  display: flex;
+
+  &__wrapper {
+    position: relative;
+  }
+
+  &__field {
+    opacity: 0;
+
+    &:checked + .checkbox__custom {
+      background-color: #3d5cff;
+    }
+  }
+
+  &__custom {
+    position: absolute;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+    width: 10px;
+    height: 10px;
+
+    cursor: pointer;
+
+    background-color: #fff;
+    border: 1px solid #3d5cff;
+    border-radius: 2px;
+
+    transition: .15s ease;
+  }
+
+  &__heading {
+    cursor: pointer;
+    margin-left: 5px;
+
+    color: #000;
+    font-size: 16px;
+  }
+}

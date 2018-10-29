@@ -1,0 +1,51 @@
+@import "./_settings";
+
+.container {
+  max-width: @containerLarge;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 @containerPadding;
+
+  box-sizing: border-box;
+
+  &__row {
+    display: flex;
+  }
+
+  &__column {
+    width: 100%;
+    padding: 0 @containerPadding;
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+}
+
+@media (max-width: @containerLarge) {
+  .o-container {
+    max-width: @containerMedium;
+  }
+}
+
+@media (max-width: @containerMedium) {
+  .o-container {
+    max-width: @containerSmall;
+  }
+}
+
+@media (max-width: @containerSmall) {
+  .o-container {
+    max-width: @containerLittle;
+  }
+}
+
+@media (max-width: @containerLittle) {
+  .o-container {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f3c470c-6507-4dcd-b3a5-7d9970a7bcfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/vendor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arrow-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arrow-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/button-icon-column.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/button-icon-row.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/challenges-conversion-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/challenges-conversion-hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/challenges-example-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/challenges-month-oring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/challenges.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/footer-lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/footer-separator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/gloves.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icon-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/input-hidden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/message-item-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/our-principles/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/our-principles/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/our-principles/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/our-principles/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/photo-camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/popup-background-hight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/profile-backgorund.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/profile-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/quote-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/rating-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/rating-header-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/rating-information-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/rating-information-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/services-item-image-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/services-item-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/services-item-price-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/social-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/usericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/vector/SVG/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/vector/SVG/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/vector/SVG/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/vector/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/vector/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/vector/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/weekly/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/weekly/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/weekly/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/js/scripts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/js/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/js/vendor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/button/_settings.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/button/button.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/checkbox/checkbox.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/container/_settings.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/container/container.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/heading/heading.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/link/_settings.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/link/link.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/core/page/page.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/dist/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/dist/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/dist/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/libs/jquery-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/libs/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/libs/qunit/qunit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/libs/qunit/qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/magnific-popup.jquery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/css/_settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/js/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/js/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/js/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/js/iframe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/js/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/js/inline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/js/retina.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/src/js/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/_includes/analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/_includes/build-tool.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/_includes/examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/_includes/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/_includes/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/site-assets/ajax/test-ajax-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/site-assets/ajax/test-ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/site-assets/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/third-party-libs/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/third-party-libs/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/third-party-libs/uglify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/third-party-libs/zepto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/third-party-libs/zepto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/website/wordpress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/default-skin/default-skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/default-skin/default-skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/default-skin/default-skin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/default-skin/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/photoswipe-ui-default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/photoswipe-ui-default.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/photoswipe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/photoswipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/dist/photoswipe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/photoswipe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/_main-settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/default-skin/default-skin-svg.sketch/Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/default-skin/default-skin-svg.sketch/metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/default-skin/default-skin-svg.sketch/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/default-skin/default-skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/default-skin/default-skin.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/default-skin/default-skin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/default-skin/default-skin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/default-skin/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/desktop-zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/framework-bridge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/gestures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/items-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/show-hide-transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/tap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/src/js/ui/photoswipe-ui-default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/_includes/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/api.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/creating-custom-ui.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/custom-html-in-slides.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/getting-started.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/options.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/performance-tips.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/responsive-images.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/seo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/documentation/updates.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/site-assets/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/apple-touch-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/fullscreen-laptop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/grunt-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/high-dpi-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/horizontal-swipe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/keyboard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/lazy-loading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/lowres.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/luke45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/pinch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/progressive.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/spread.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/website/test/vertical-swipe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/iconmoon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/deploy.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/dist/jquery.mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/dist/jquery.mask.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/package.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/src/jquery.mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/jquery.mask.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/qunit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/sinon-1.10.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/sinon-qunit-1.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/sinon-qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/test-for-jquery-1.11.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/test-for-jquery-1.7.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/test-for-jquery-1.8.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/test-for-jquery-1.9.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/test-for-jquery-2.1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/test-for-jquery-3.0.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/test-for-zepto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/zepto/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/zepto/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/test/zepto/zepto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/normalize.css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/.jshintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/css/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/css/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/dsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/hsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/sr-Cyrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/tk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/i18n/zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/select2.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/dist/js/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/docs/announcements-4.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/docs/community.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/docs/examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/docs/options-old.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/docs/options.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/select2.jquery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/banner.end.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/banner.start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/jquery.mousewheel.shim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/jquery.select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/jquery.shim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/compat/containerCss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/compat/dropdownCss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/compat/initSelection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/compat/inputData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/compat/matcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/compat/query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/compat/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/maximumInputLength.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/maximumSelectionLength.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/minimumInputLength.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/tags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/data/tokenizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/diacritics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/attachBody.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/attachContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/closeOnSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/hidePlaceholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/infiniteScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/minimumResultsForSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/selectOnClose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/dropdown/stopPropagation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/dsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/hsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/sr-Cyrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/tk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/i18n/zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/results.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/allowClear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/clickMask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/eventRelay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/selection/stopPropagation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/translation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/select2/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/wrapper.end.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/js/wrapper.start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/_multiple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/_single.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/theme/classic/_defaults.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/theme/classic/_multiple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/theme/classic/_single.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/theme/classic/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/theme/default/_multiple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/theme/default/_single.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/src/scss/theme/default/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/a11y/search-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/a11y/selection-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/array-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/base-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/inputData-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/maximumInputLength-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/maximumSelectionLength-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/minimumInputLength-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/select-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/tags-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/data/tokenizer-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/dropdown/dropdownCss-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/dropdown/positioning-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/dropdown/selectOnClose-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/dropdown/stopPropagation-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/integration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/integration/dom-changes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/integration/jquery-calls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/integration/select2-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/options/ajax-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/options/data-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/options/deprecated-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/options/translation-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/options/width-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/results/focusing-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/selection/allowClear-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/selection/containerCss-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/selection/multiple-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/selection/placeholder-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/selection/search-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/selection/single-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/selection/stopPropagation-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/unit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/utils/decorator-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/utils/escapeMarkup-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/vendor/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/vendor/qunit-1.23.1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/tests/vendor/qunit-1.23.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/select2-develop/vendor/jquery-2.1.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/CONTRIBUTING.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick.jquery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/config.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/slick-theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/slick-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/slick.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/slick/slick.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="894658146">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="4" />
+          <entry key="ico" value="1" />
+          <entry key="js" value="5" />
+          <entry key="json" value="3" />
+          <entry key="less" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="5" />
+          <entry key="Less" value="18" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="25" />
+          <entry key="html" value="669" />
+          <entry key="js" value="6" />
+          <entry key="less" value="1129" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="669" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Less" value="1129" />
+          <entry key="PLAIN_TEXT" value="25" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="44" column="26" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/less/core/heading/heading.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/less/core/base.less" />
+        <option value="$PROJECT_DIR$/src/less/core/o-container/_settings.less" />
+        <option value="$PROJECT_DIR$/src/less/core/o-container/o-container.less" />
+        <option value="$PROJECT_DIR$/src/less/core/o-page/o-page.less" />
+        <option value="$PROJECT_DIR$/src/less/core/page/page.less" />
+        <option value="$PROJECT_DIR$/src/less/core/button/_settings.less" />
+        <option value="$PROJECT_DIR$/src/less/core/button/button.less" />
+        <option value="$PROJECT_DIR$/src/less/core/checkbox/checkbox.less" />
+        <option value="$PROJECT_DIR$/src/less/core/link/_settings.less" />
+        <option value="$PROJECT_DIR$/src/less/core/link/link.less" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/less/core/heading/heading.less" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/src/vendor/Magnific-Popup-master 2/package.json" />
+      <path value="$PROJECT_DIR$/src/vendor/PhotoSwipe-master/package.json" />
+      <path value="$PROJECT_DIR$/src/vendor/jQuery-Mask-Plugin-master 2/package.json" />
+      <path value="$PROJECT_DIR$/src/vendor/select2-develop/package.json" />
+      <path value="$PROJECT_DIR$/src/vendor/slick-1.8.1 3/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1680" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="abem-bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abem-bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3c470c-6507-4dcd-b3a5-7d9970a7bcfe" name="Default Changelist" comment="" />
+      <created>1540850168568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540850168568</updated>
+      <workItem from="1540850170744" duration="3935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3935000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Work/Brave/src/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="true" selection-end-line="858" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Work/Brave/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="11" selection-start-column="4" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Work/Brave/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="75" column="3" lean-forward="true" selection-start-line="56" selection-end-line="75" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profile-auth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/_settings.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/container/container.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/container/_settings.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/page/page.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/button/button.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/button/_settings.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/checkbox/checkbox.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/link/link.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/link/_settings.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/core/heading/heading.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
